@@ -1,0 +1,11 @@
+livekit-agents~=1.5.0
+livekit-plugins-groq
+livekit-plugins-deepgram
+livekit-plugins-silero
+groq
+python-dotenv
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+livekit
