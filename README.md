@@ -133,4 +133,4 @@ py -3.11 test.py
 ## Note on Armenian TTS
 All high-quality native Armenian Text-to-Speech models (Google Cloud, ElevenLabs)
 require a paid account. This project uses Deepgram Aura as a free alternative,
-which speaks Armenian text with an English accent.
+which speaks Armenian text with an English accent.We can also use Armenian models like vs.am or xosum.am, but they do not work with LiveKid.
